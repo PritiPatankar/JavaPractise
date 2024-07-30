@@ -1,0 +1,228 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OlsApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.ols.OlsApplication",
+            "projectName": "ols"
+        },
+        {
+            "type": "java",
+            "name": "EmsphApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.emsph.EmsphApplication",
+            "projectName": "emsph"
+        },
+        {
+            "type": "java",
+            "name": "EmspApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.emsp.EmspApplication",
+            "projectName": "emsp"
+        },
+        {
+            "type": "java",
+            "name": "EmssApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.emss.EmssApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ObsApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.obs.ObsApplication",
+            "projectName": "obs"
+        },
+        {
+            "type": "java",
+            "name": "BlogApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.blog.BlogApplication",
+            "projectName": "blog"
+        },
+        {
+            "type": "java",
+            "name": "OsmApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.osm.OsmApplication",
+            "projectName": "osm"
+        },
+        {
+            "type": "java",
+            "name": "EmsApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.ems.EmsApplication",
+            "projectName": "ems"
+        },
+        {
+            "type": "java",
+            "name": "EventManagementApp",
+            "request": "launch",
+            "mainClass": "Streams.EventManagementApp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "Collections.ArrayList.ArrayOfObjects",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Collections.Hashmap.Comparable_Comparator_Hashmap.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JDBC_Recall.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MainPgm",
+            "request": "launch",
+            "mainClass": "DatabaseDAO.Patient_Data.MainPgm",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Orders",
+            "request": "launch",
+            "mainClass": "CustomException.Orders",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "searchHashmap",
+            "request": "launch",
+            "mainClass": "Collections.Hashmap.searchHashmap",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashMapPractise",
+            "request": "launch",
+            "mainClass": "Collections.Hashmap.HashMapPractise",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CRUD_Movies",
+            "request": "launch",
+            "mainClass": "JDBC_Movies.CRUD_Movies",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "ArrayOfObjects",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CRUD_Employee",
+            "request": "launch",
+            "mainClass": "CRUD_Employee",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "assignment04.question02.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TourPackageOperations",
+            "request": "launch",
+            "mainClass": "assignment04.question01.TourPackageOperations",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Question02.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Question01.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "AutomotiveSystemApp",
+            "request": "launch",
+            "mainClass": "Assignment02.Question02.AutomotiveSystemApp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountSystem",
+            "request": "launch",
+            "mainClass": "Assignment02.BankAccountSystem",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MainRailwayRegistration",
+            "request": "launch",
+            "mainClass": "Railway_Registration.MainRailwayRegistration",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "BattleshipGame",
+            "request": "launch",
+            "mainClass": "BattleshipGame",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SubscriptionChecker",
+            "request": "launch",
+            "mainClass": "SubscriptionChecker",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InsuranceApp",
+            "request": "launch",
+            "mainClass": "InsuranceApp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        }
+    ]
+}
